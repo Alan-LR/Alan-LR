@@ -2,7 +2,7 @@
 
 
 
-- 😎 Tenho 25 anos
+- 😎 Tenho 26 anos
 - 🎓 Formando em Análise e desenvolvimento de sistemas
 - 🧠 Estudando HTML/CSS/Javascript
 - 📟 Só no compiuter

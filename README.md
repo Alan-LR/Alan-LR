@@ -6,6 +6,7 @@
 - 🎓 Formando em Análise e desenvolvimento de sistemas
 - 🧠 Estudando HTML/CSS/Javascript
 - 📟 Só no compiuter
+- 🚫 Não mexerás na gambiarra alheia 😂😂
 
 
 <div>

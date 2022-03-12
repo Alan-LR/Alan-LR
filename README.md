@@ -4,7 +4,7 @@
 
 - 😎 Tenho 26 anos
 - 🎓 Formando em Análise e desenvolvimento de sistemas
-- 🧠 Cursos em HTML/CSS/Javascript e JAVA
+- 🧠 Cursos em HTML/CSS/Javascript e Java
 - 📟 Só no compiuter
 - 🚫 Não mexerás na gambiarra alheia
 

@@ -4,7 +4,7 @@
 
 - 😎 Tenho 26 anos
 - 🎓 Formando em Análise e desenvolvimento de sistemas
-- 🧠 Cursos em HTML/CSS/Javascript e Java
+- 🧠 Conhecimentos em: HTML/CSS/Javascript/Java e Spring
 - 📟 Só no compiuter
 - 🚫 Não mexerás na gambiarra alheia
 
@@ -21,8 +21,9 @@
   <img align="center" alt="Alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Alan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="Alan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
   
-  
+   <img  />
   
 </div>
 

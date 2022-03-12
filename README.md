@@ -4,9 +4,10 @@
 
 - 😎 Tenho 26 anos
 - 🎓 Formando em Análise e desenvolvimento de sistemas
-- 🧠 Estudando HTML/CSS/Javascript
+- 🧠 Cursos em HTML/CSS/Javascript e JAVA
 - 📟 Só no compiuter
-- 🚫 Não mexerás na gambiarra alheia 😂😂
+- 🚫 Não mexerás na gambiarra alheia
+
 
 
 <div>

@@ -5,7 +5,6 @@
 - 😎 Tenho 26 anos
 - 🎓 Formando em Análise e desenvolvimento de sistemas
 - 🧠 Conhecimentos em: HTML/CSS/Javascript/Java e Spring
-- 📟 Só no compiuter
 - 🚫 Não mexerás na gambiarra alheia
 
 

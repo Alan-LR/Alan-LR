@@ -4,7 +4,7 @@
 
 - 😎 Tenho 26 anos
 - 🎓 Formando em Análise e desenvolvimento de sistemas
-- 🧠 Conhecimentos em: HTML/CSS/Javascript/Java/Spring/MySQL/Banco de dados
+- 🧠 Conhecimentos em: Java/Spring boot/MySQL/HTML/CSS/Javascript
 
 
 

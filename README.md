@@ -29,3 +29,8 @@
 
 
   ![Snake animation](https://github.com/Alan-LR/Alan-LR/blob/output/github-contribution-grid-snake.svg)
+  
+  
+  <div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alan-LR&theme=highcontrast" alt="Alan-LR" />
+  </div>

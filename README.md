@@ -3,9 +3,9 @@ Alan Ramalho
 
 
 - 😎 Tenho 27 anos
-- 🎓 Formando em Análise e desenvolvimento de sistemas
+- 🎓 Formado em Análise e desenvolvimento de sistemas
 - 🧠 Conhecimentos em:<br> 
-    * Java/JavaEE/JPA/Hibernate/Spring boot<br>
+    * Java/JavaEE/JPA/JSF/Hibernate/Spring boot<br>
     * MySQL/H2/Postgress<br>
     * HTML<br>
     * CSS<br>

@@ -1,18 +1,16 @@
 Alan Ramalho
 
 
+- 😎 **Idade**: 28 anos
+- 💼 **Atualmente**: Dev Back-end utilizando tecnologias como Java/JSF/Hibernate/JPA
+- 🎓 **Formação**: Análise e Desenvolvimento de Sistemas
+- 🧠 **Conhecimentos em**:
+    - Java, JavaEE, JPA, JSF, Hibernate, Spring Boot
+    - MySQL, H2, PostgreSQL
+    - HTML, CSS, JavaScript, Angular 8+
 
-- 😎 Tenho 27 anos
-- 🎓 Formado em Análise e desenvolvimento de sistemas
-- 🧠 Conhecimentos em:<br> 
-    * Java/JavaEE/JPA/JSF/Hibernate/Spring boot<br>
-    * MySQL/H2/Postgress<br>
-    * HTML<br>
-    * CSS<br>
-    * Javascript<br>
-    * Angular8+
-
-
+- 🌐 **Contatos e Redes Sociais**:
+    - [LinkedIn](https://www.linkedin.com/in/alan-ramalho-942224247/)
 
 
 <div>

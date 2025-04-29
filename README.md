@@ -5,7 +5,7 @@ Alan Ramalho
 - 💼 **Atualmente**: Dev Back-end utilizando tecnologias como Java/JSF/Hibernate/JPA
 - 🎓 **Formação**: Análise e Desenvolvimento de Sistemas
 - 🧠 **Conhecimentos em**:
-    - Java, JavaEE, JPA, JSF, Hibernate, Spring Boot
+    - Java, JavaEE, JPA, JSF, Hibernate, Spring Boot, Quarkus, Microservices, JUnit
     - MySQL, H2, PostgreSQL
     - HTML, CSS, JavaScript, Angular 8+
 
